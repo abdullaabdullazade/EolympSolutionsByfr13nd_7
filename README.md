@@ -17,3 +17,11 @@ To get started with any of the solutions, follow these steps:
 1. **Clone the repository**:
    ```sh
    git clone https://github.com/fr13nd_7/eolymp-solutions.git
+   ```
+   ```sh
+   cd eolymp-solutions
+  ```
+  ```sh
+g++ problem_name.cpp -o problem_name
+./problem_name
+```
