@@ -24,6 +24,5 @@ To get started with any of the solutions, follow these steps:
 
 2.**Run Code**
      ```sh
-   g++ problem_name.cpp -o problem_name
-   ./problem_name
-    ```
+     g++ problem_name.cpp -o problem_name ./problem_name
+      ```
