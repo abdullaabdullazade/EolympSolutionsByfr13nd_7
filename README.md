@@ -8,10 +8,10 @@ As of now, the repository is quite straightforward. All solutions are in C++ and
 To get started with any of the solutions, follow these steps:
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/fr13nd_7/eolymp-solutions.git
+   git clone https://github.com/abdullazadeabdulla/EolympSolutionsByfr13nd_7.git
    ```
    ```sh
-   cd eolymp-solutions
+   cd EolympSolutionsByfr13nd_7
    ```
 ## **Contributing** 🤝
 Feel free to contribute to this repository by submitting issues or pull requests. Let's solve problems together and improve our skills!
