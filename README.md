@@ -21,8 +21,11 @@ To get started with any of the solutions, follow these steps:
    ```sh
    cd eolymp-solutions
    ```
+## **Contributing** 🤝
+Feel free to contribute to this repository by submitting issues or pull requests. Let's solve problems together and improve our skills!
 
-2.**Run Code**:
-     ```sh
-     g++ problem_name.cpp -o problem_name ./problem_name
+##**Contact 📬**
+If you have any questions or suggestions, please feel free to reach out. Let's connect and collaborate!
+
+**Happy coding! 😃✨**
 
