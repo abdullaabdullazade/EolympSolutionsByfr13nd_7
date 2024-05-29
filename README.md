@@ -24,7 +24,7 @@ To get started with any of the solutions, follow these steps:
 ## **Contributing** 🤝
 Feel free to contribute to this repository by submitting issues or pull requests. Let's solve problems together and improve our skills!
 
-**Contact 📬**
+## Contact 📬
 If you have any questions or suggestions, please feel free to reach out. Let's connect and collaborate!
 
 **Happy coding! 😃✨**
