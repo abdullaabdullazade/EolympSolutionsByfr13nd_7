@@ -20,8 +20,9 @@ To get started with any of the solutions, follow these steps:
    ```
    ```sh
    cd eolymp-solutions
-  ```
+   ```
+
   ```sh
 g++ problem_name.cpp -o problem_name
 ./problem_name
-```
+ ```
