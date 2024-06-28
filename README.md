@@ -8,7 +8,7 @@ As of now, the repository is quite straightforward. All solutions are in C++ and
 To get started with any of the solutions, follow these steps:
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/abdullazadeabdulla/EolympSolutionsByfr13nd_7.git
+   git clone https://github.com/abdullaabdullazade/EolympSolutionsByfr13nd_7.git
    ```
    ```sh
    cd EolympSolutionsByfr13nd_7
